@@ -10,7 +10,7 @@ USER 1000
 # Cache-friendly dependency installation
 COPY pyproject.toml uv.lock ./
 # https://docs.astral.sh/uv/guides/integration/docker/#installing-uv
-COPY --from=ghcr.io/astral-sh/uv:latest /uv /bin/
+COPY --from=ghcr.io/astral-sh/uv:0.6.6 /uv /uvx /bin/
 RUN uv sync --frozen --no-dev
 
 COPY ancv/ ancv/

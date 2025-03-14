@@ -1,5 +1,15 @@
 # [ancv](https://github.com/alexpovel/ancv)
 
+## UPDATE (soundstep)
+
+```sh
+echo $GITHUB_TOKEN | docker login ghcr.io -u USERNAME --password-stdin
+cd self-hosting/
+docker compose up
+```
+
+## From work
+
 Getting your resume aka [an CV](https://youtu.be/mJUtMEJdvqM?t=16) (*[ANSI](https://en.wikipedia.org/wiki/ANSI_escape_code)-v* 🤡) straight to your and anyone else's terminals:
 
 ![showcase cv terminal output](docs/images/showcase.svg)

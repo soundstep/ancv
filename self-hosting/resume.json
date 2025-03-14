@@ -1,0 +1,285 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Romuald Quantin",
+    "label": "Lead Engineer at ITV",
+    "image": "https://media.licdn.com/dms/image/C4E03AQFkYpiUUKyITA/profile-displayphoto-shrink_800_800/0/1516610700132?e=1726704000&v=beta&t=1je596By0Mg8ATimFqcDyV9NLEmZei-Wao1L18jx630",
+    "email": "romu@soundstep.com",
+    "phone": "",
+    "url": "https://soundstep.com",
+    "summary": "As a Lead Engineer with years of technical experience, I specialise in managing cross-disciplinary teams and leading large-scale projects within complex organisations. My expertise includes front-end engineering, cloud infrastructure, and CI/CD delivery platforms, with a focus on enhancing developer experience, productivity, and organisational efficiency.\n\nI have effectively managed a Site Reliability Engineering (SRE) team, created dynamic CI/CD pipelines, and developed several CLI tools using Deno and NodeJS. Collaborating with Engineering Managers, other technical leads, and directors. I was heavily involved in the creation of an engineering framework that empowers engineers and promotes the value of technical engineering work within the organisation. I participate regularly in ITV’s front-end community of practice, promoting collaboration and knowledge sharing.\n\nMy achievements include improving platform health and scalability, mentoring engineers, and driving strategic initiatives that promote continuous improvement and innovation. I’m passionate about technology and committed to excellence, I thrive in a collaborative and inclusive work environment.",
+    "location": {
+      "countryCode": "44",
+      "address": "United Kingdom"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "romualdquantin",
+        "url": "https://www.linkedin.com/in/romualdquantin/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ITV",
+      "position": "Lead Engineer at ITV",
+      "startDate": "2020-10-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/itv/",
+      "location": "London"
+    },
+    {
+      "name": "ITV",
+      "position": "Senior Engineer",
+      "startDate": "2014-01-31",
+      "endDate": "2020-10-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/itv/"
+    },
+    {
+      "name": "Stinkdigital",
+      "position": "Developer",
+      "startDate": "2011-11-30",
+      "endDate": "2014-01-31",
+      "highlights": [],
+      "summary": "Developer, javascript, node.js, and flash, producing cutting-edge video interactive experiences.",
+      "url": "https://www.linkedin.com/company/stinkstudios/"
+    },
+    {
+      "name": "B-Reel",
+      "position": "Developer",
+      "startDate": "2010-12-31",
+      "endDate": "2011-12-31",
+      "highlights": [],
+      "summary": "Developer producing cutting-edge video interactive experiences.",
+      "url": "https://www.linkedin.com/company/feelslikestudio/"
+    },
+    {
+      "name": "Less Rain",
+      "position": "Developer",
+      "startDate": "2008-12-31",
+      "endDate": "2010-12-31",
+      "highlights": [],
+      "summary": "Front-end developer."
+    },
+    {
+      "name": "COSMOSBAY VECTIS",
+      "position": "Developer",
+      "startDate": "1999-12-31",
+      "endDate": "2002-12-31",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "AWS DevOps Engineering on AWS (AMWSDE)",
+      "area": "AWS DevOps",
+      "studyType": "DevOps Training",
+      "startDate": "2018-11-30",
+      "endDate": "2018-11-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Music Academy International",
+      "area": "Basse, MAO",
+      "studyType": "Certifications Professionnelles",
+      "startDate": "1996-09-30",
+      "endDate": "1999-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Pierre and Marie Curie University",
+      "area": "Polymer/Plastics Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "1992-09-30",
+      "endDate": "1996-06-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Google - DevArt - Technical Achievement",
+      "date": "2015-12-31",
+      "awarder": "Webby Award Winner",
+      "summary": ""
+    },
+    {
+      "title": "Nike - My Time Is Now -  INTERACTIVE GOLD WEBSITE AND CONSUMER GOODS",
+      "date": "2012-12-31",
+      "awarder": "ONESHOW",
+      "summary": ""
+    },
+    {
+      "title": "Nike - My Time Is Now - BRONZE/INTERACTIVE VIDEO",
+      "date": "2012-12-31",
+      "awarder": "Festival de Cannes",
+      "summary": ""
+    },
+    {
+      "title": "Nike - My Time Is Now - BRONZE/USER EXPERIENCE",
+      "date": "2012-12-31",
+      "awarder": "Festival de Cannes",
+      "summary": ""
+    },
+    {
+      "title": "Nike - My Time Is Now - SILVER/INTERACTIVE FILM",
+      "date": "2012-12-31",
+      "awarder": "Festival de Cannes",
+      "summary": ""
+    },
+    {
+      "title": "Nike - My Time Is Now - SITE OF THE DAY",
+      "date": "2012-12-31",
+      "awarder": "FWA",
+      "summary": ""
+    },
+    {
+      "title": "Philips - The Sound of Creation - INTERACTIVE MUSIC",
+      "date": "2012-12-31",
+      "awarder": "SXSW",
+      "summary": ""
+    },
+    {
+      "title": "Philips - The Sound of Creation - SILVER/INTERFACE & NAVIGATION",
+      "date": "2012-12-31",
+      "awarder": "Festival de Cannes",
+      "summary": ""
+    },
+    {
+      "title": "Philips - The Sound of Creation - SITE OF THE DAY",
+      "date": "2012-12-31",
+      "awarder": "FWA",
+      "summary": ""
+    },
+    {
+      "title": "The Land of Me - ADOBE MAX FINALIST",
+      "date": "2010-12-31",
+      "awarder": "ADOBE MAX AWARDS",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership & Strategy",
+      "level": "Expert",
+      "keywords": ["Engineering Strategy", "Developer Experience", "Leadership", "R&D"]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Expert",
+      "keywords": ["OOP", "Design Patterns", "Test Driven Development (TDD)", "BDD", "Unit Testing"]
+    },
+    {
+      "name": "Web Technologies",
+      "level": "Expert",
+      "keywords": ["DOM", "JSON", "JSONP", "JavaScript Libraries", "Web Applications"]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Expert",
+      "keywords": ["JavaScript", "HTML5", "CSS3", "SASS", "React", "Node.js", "AJAX"]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Expert",
+      "keywords": ["Node.js", "RESTful WebServices"]
+    },
+    {
+      "name": "CLI Development",
+      "level": "Expert",
+      "keywords": ["Node.js", "Deno", "Command-line Tool Development", "System Scripting"]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": "Expert",
+      "keywords": ["CI/CD", "Site Reliability Engineering", "GitHub", "Git"]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": ["Amazon Web Services (AWS)"]
+    },
+    {
+      "name": "User Experience",
+      "level": "Expert",
+      "keywords": ["UX", "User Interface", "User Experience", "User Interaction"]
+    },
+    {
+      "name": "Digital Media",
+      "level": "Proficient",
+      "keywords": ["Video Editing", "After Effects", "Photoshop", "Digital Video", "Web Video", "Motion Tracking"]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "French"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Google DevArt",
+      "startDate": "2014-01-31",
+      "summary": "Google, with the Barbican in London, will commission a developer to create a new digital art installation alongside some of the world's best interactive artists at the Digital Revolution exhibition: the biggest and most comprehensive exploration of digital creativity ever to be staged in the UK. From there, the exhibition will then go on tour to cities around the world.\n\nGoogle DevArt is the online showcase of the projects competing for the commission that will eventually exhibit at the Barbican.",
+      "url": "https://devart.withgoogle.com",
+      "endDate": "2014-01-31"
+    },
+    {
+      "name": "Red Bull - Google - Revolutions in Sound",
+      "startDate": "2013-12-31",
+      "summary": "Google+ & Red Bull Music Academy approached us to develop an experience where people could reminisce about old glory days of clubbing and galvanise current & new clubbers to discover music and club nights, to coincide with the Revolutions in Sound event hosted at the EDF London Eye.\n\nThe concept quickly escalated from a photo sharing experience, into a living archive of UK club culture.\n\nWith the help of RBMA's editorial team we populated a site with information about artists, club nights, events venues and tracks synonymous with the musicians participating in the Revolution in Sound events. Then with the help of a variety open APIs (Discogs, LastFm, SoundCloud, Freebase, Google+) we pulled in contextual information and thousands of other links to these initial artists. This data is pulled from the respective sources, indexed and linked back to give credits to original data, allowing editors a great flexibility when populating the database.\n\nWe cross referenced all the APIs to filter out good data from bad data, and automated connections, while making a CMS custom built for editorial purposes. The team was able to add artists and make hundreds of connections with a few clicks.\n\nAfter the site launched, we opened up user submission of content. Here we ask people to upload photos, tracks and memories about each artist, event, venue which they have been to, and become part of their clubbing scene. The more people add to it, the more, and better connections the site will make.\nWe designed the site in a device agnostic manner, meaning that even though we are using advance technology for capable browsers and devices, those browsers that don't support javascript, or CSS3 can still get a thematically consistent experience.",
+      "url": "http://archive.revolutionsinsound.com/",
+      "endDate": "2013-12-31"
+    },
+    {
+      "name": "Nike — My Time Is Now",
+      "startDate": "2012-12-31",
+      "summary": "My Time Is Now, which aired on TV for the first time on May 19th during the European Club Final, debuted on Facebook, YouTube, and nikefootball.com. It features many of the elite players who will battle it out in Poland and Ukraine in Summer 2012, including Cristiano Ronaldo, Neymar, Andres Iniesta, amongst others. Special guest appearances are made by Pep Guardiola, Lauren Blanc and basketball superstar LeBron James.\n\nUsers can also discover additional interactive content through hidden tunnels at youtube.com/user/NikeFootball/mytimeisnow. These breakout experiences include extended video sequences, player statistics, games, interactive product displays and training tools — each aimed at inspiring young athletes to become better footballers.\n\nAccording to YouTube, My Time Is Now was the most watched ad of 2012.",
+      "url": "http://stinkdigital.com/en/work/nike-my-time-is-now",
+      "endDate": "2012-12-31"
+    },
+    {
+      "name": "Philips — The Sound of Creation",
+      "startDate": "2012-12-31",
+      "summary": "The Sound of Creation is an audio-visual experience created in collaboration with songwriter and producer Washed Out and director Gustav Johansson. The experience builds as a metaphor for the creative process, and the fully interactive digital experience celebrates the virtuosity of sound craft, offering music lovers and audiophiles a chance to explore the narrative of acoustic design and craftsmanship behind the Philips Fidelio product range.",
+      "url": "http://stinkdigital.com/en/work/the-sound-of-creation",
+      "endDate": "2012-12-31"
+    },
+    {
+      "name": "soma-template",
+      "startDate": "2012-12-31",
+      "summary": "Web template engine based on DOM manipulations.",
+      "url": "http://soundstep.github.io/soma-template"
+    },
+    {
+      "name": "soma.js",
+      "startDate": "2012-12-31",
+      "summary": "soma.js is a framework created to build scalable and maintainable javascript applications.\n\nThe success to build large-scale applications will rely on smaller single-purposed parts of a larger system. soma.js provides tools to create a loosely-coupled architecture broken down into smaller pieces.\n\nThe different components of an application can be modules, models, views, plugins or widgets. soma.js will not dictate its own structure, the framework can be used as a model-view-controller framework, can be used to create independent modules, sandboxed widgets or anything that will fit a specific need.\n\nFor a system to grow and be maintainable, its parts must have a very limited knowledge of their surrounding. The components must not be tied to each other (Law of Demeter), in order to be re-usable, interchangeable and allow the system to scale up.\n\nsoma.js is a set of tools and design patterns to build a long term architecture that are decoupled and easily testable. The tools provided by the framework are dependency injection, observer pattern, mediator pattern, facade pattern, command pattern, OOP utilities and a DOM manipulation template engine as an optional plugin.",
+      "url": "http://somajs.github.io/somajs"
+    },
+    {
+      "name": "Stella Artois — Chalice Vault",
+      "startDate": "2012-12-31",
+      "summary": "Using a unique code printed on Stella Artois packaging, fans could unlock the Chalice Vault door, search for their personal safety deposit box in the 360º chamber and unlock it to reveal its contents. The winning safety deposit boxes contained a Stella Artois Chalice that users could engrave with a personal message.\n\nThe site scaled from a fully immersive experience for desktop users, down to an HTML5 version that replicated the cinematic experience with image sequences, retaining the interactive elements for mobile and tablet users.",
+      "url": "http://stinkdigital.com/en/work/chalice-vault",
+      "endDate": "2012-12-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
