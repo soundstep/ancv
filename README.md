@@ -2,10 +2,32 @@
 
 ## UPDATE (soundstep)
 
+Run locally
+
 ```sh
 echo $GITHUB_TOKEN | docker login ghcr.io -u USERNAME --password-stdin
 cd self-hosting/
 docker compose up
+```
+
+Deploy existing image
+
+```sh
+gcloud auth login
+gcloud auth configure-docker
+docker pull ghcr.io/alexpovel/ancv
+docker tag ghcr.io/alexpovel/ancv gcr.io/ancv-soundstep/ancv
+docker push gcr.io/ancv-soundstep/ancv
+```
+
+Deploy image from source (install devbox and nix)
+
+```sh
+echo $GITHUB_TOKEN | docker login ghcr.io -u USERNAME --password-stdin
+devbox run install-hooks
+devbox run build-image
+docker tag ancv/ancv:dev gcr.io/ancv-soundstep/ancv
+docker push gcr.io/ancv-soundstep/ancv
 ```
 
 ## From work
